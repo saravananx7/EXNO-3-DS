@@ -31,8 +31,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCimport pandas as pd
-
+import pandas as pd
 df=pd.read_csv("Encoding Data.csv") df
 <img width="1020" height="555" alt="Screenshot 2025-12-28 093300" src="https://github.com/user-attachments/assets/03ab33f0-8702-41b3-a735-b02eb4da1bc9" />
 
